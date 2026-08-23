@@ -19248,5 +19248,12 @@
     "author": "Santi Younger",
     "description": "Calculate reading time estimates for selected text using your own reading speed in Words Per Minute.",
     "repo": "santiyounger/wpm-reading-time"
+  },
+  {
+    "id": "getnote-importer",
+    "name": "Dedao Brain Sync",
+    "author": "Andy Zheng",
+    "description": "Bidirectional sync for notes, links, recordings, and AI summaries between GetNote / \u5f97\u5230\u5927\u8111\uff08\u539fGet\u7b14\u8bb0\uff09 and your local vault.",
+    "repo": "AndyZhengyan/obsidian-dedao-brain-sync"
   }
 ]
